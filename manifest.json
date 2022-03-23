@@ -1,0 +1,15 @@
+{
+    "name": "IUT Paul Sabatier Chrome Extension",
+    "description": "Useful links to facilate the experience",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "./resources/images/logo.png",
+            "32": "./resources/images/logo.png",
+            "48": "./resources/images/logo.png",
+            "128": "./resources/images/logo.png"
+        }
+    }
+}
