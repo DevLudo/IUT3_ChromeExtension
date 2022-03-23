@@ -11,5 +11,11 @@
             "48": "./resources/images/logo.png",
             "128": "./resources/images/logo.png"
         }
-    }
+    },
+    "permissions": [
+        "storage"
+    ],
+    "host_permissions": [
+        "https://auth.iut-tlse3.fr/*"
+    ]
 }
