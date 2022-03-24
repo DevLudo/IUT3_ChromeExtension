@@ -1,6 +1,6 @@
 {
     "name": "IUT Paul Sabatier Chrome Extension",
-    "description": "Useful links to facilate the experience",
+    "description": "Extension Chrome utile pour les étudiants",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
